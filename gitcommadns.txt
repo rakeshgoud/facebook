@@ -1,0 +1,18 @@
+For configuring
+---------------
+git config --global user.name "rakeshgoud"
+git config --global user.email ""
+
+for checkout (getting clone from repo)
+--------------------------
+git clone "url"
+
+for adding files into a repo
+----------------------------
+git add *
+git commit -m " text fiels added"
+git push (provide username and password)
+
+
+for checking status
+git status
